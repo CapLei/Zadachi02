@@ -1,0 +1,4 @@
+C:\Users\fuvis\Desktop\Zadachi02\zadacha002\obj\Debug\net7.0\zadacha002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuvis\Desktop\Zadachi02\zadacha002\obj\Debug\net7.0\zadacha002.AssemblyInfoInputs.cache
+C:\Users\fuvis\Desktop\Zadachi02\zadacha002\obj\Debug\net7.0\zadacha002.AssemblyInfo.cs
+C:\Users\fuvis\Desktop\Zadachi02\zadacha002\obj\Debug\net7.0\zadacha002.csproj.CoreCompileInputs.cache
