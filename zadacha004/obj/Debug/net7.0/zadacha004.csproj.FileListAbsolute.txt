@@ -1,0 +1,14 @@
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\bin\Debug\net7.0\zadacha004.exe
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\bin\Debug\net7.0\zadacha004.deps.json
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\bin\Debug\net7.0\zadacha004.runtimeconfig.json
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\bin\Debug\net7.0\zadacha004.dll
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\bin\Debug\net7.0\zadacha004.pdb
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\obj\Debug\net7.0\zadacha004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\obj\Debug\net7.0\zadacha004.AssemblyInfoInputs.cache
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\obj\Debug\net7.0\zadacha004.AssemblyInfo.cs
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\obj\Debug\net7.0\zadacha004.csproj.CoreCompileInputs.cache
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\obj\Debug\net7.0\zadacha004.dll
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\obj\Debug\net7.0\refint\zadacha004.dll
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\obj\Debug\net7.0\zadacha004.pdb
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\obj\Debug\net7.0\zadacha004.genruntimeconfig.cache
+C:\Users\fuvis\Desktop\Zadachi02\zadacha004\obj\Debug\net7.0\ref\zadacha004.dll
